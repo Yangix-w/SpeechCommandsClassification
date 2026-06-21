@@ -1,0 +1,7 @@
+kagglehub
+numpy
+pyAudioAnalysis
+scikit-learn
+matplotlib
+pandas
+seaborn
