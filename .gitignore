@@ -91,3 +91,6 @@ Desktop.ini
 
 # macOS (utile se collabori con utenti Mac)
 .DS_Store
+
+workspace_test
+workspace_train
